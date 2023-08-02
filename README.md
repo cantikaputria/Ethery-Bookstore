@@ -30,4 +30,4 @@
    - Viewing the book data of purchased books, such as the origin and authenticity of the book, through the blockchain.
 
 ### Live Demo
-[]
+[will be updated soon]
